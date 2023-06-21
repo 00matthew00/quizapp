@@ -8,11 +8,11 @@ const qustionDataBase = [
     ans: "answer3",
   },
   {
-    question: "why do we use ReactJs?",
-    option1: "For building UI's",
-    option2: "For back-end",
-    option3: "For data-bases",
-    option4: "It's nothing.",
+    question: "Is Tami napping?",
+    option1: "Yes",
+    option2: "Probably",
+    option3: "No but will be soon",
+    option4: "More than likely",
     ans: "answer1",
   },
   {
